@@ -106,3 +106,22 @@ body{
     font-size: 14px;
     margin-top: 10px;
 }
+
+h3{
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 18px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 img{
+    height: 25px;
+    vertical-align: middle;
+}
